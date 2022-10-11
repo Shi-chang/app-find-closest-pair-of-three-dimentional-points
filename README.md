@@ -1,6 +1,6 @@
 # Overview
 <p>Finding the closest pair of two objects in three-dimensional space has a lot of practical use in real life, such as calculating aircraft collision probabilities at an airport. Finding the closest pair of three-dimensional objects takes O(n^2) running time if we use the naïve method (two iterations comparing all possible cases). This program aims to improve the time complexity of the searching. </p>
-<p>The algorithm applied in the program uses the methodology of divide and conquer. It divides the zone containing points into two halves, finds the smallest distance between points, uses the found distance to build an imaginary special strip zone and searches the strip zone to update the smallest distance when necessary, and combines the results. The process goes on recursively until the bases cases are hit and results are returned. </p>
+<p>The algorithm applied in the program uses the methodology of divide and conquer. It divides the zone containing points into two halves, finds the smallest distance between points, uses the found distance to build an imaginary special strip zone and searches the strip zone along the center to update the smallest distance when necessary, and combines and compares the results to get the smallest distance. The process goes on recursively until the bases cases(there is 0, 1, 2, or 3 points in the zone) are hit and results are returned. </p>
 <p>This program can find the pair of three-dimensional points with shortest Euclidean distance among the points provided in O(n*logn) time. </p>
 
 # What I have learned

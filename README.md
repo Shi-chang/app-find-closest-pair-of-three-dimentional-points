@@ -8,4 +8,4 @@
 2. Computer science is an interdisciplinary subject when dealing with real life problems, and some of my previous skills in civil engineering (like my spatial intelligence) can be transferred into this field.
 
 # Acknowledgements
-I would like to thank the Department of Computer Science of Princeton University for providing the free explanation materials on this topic https://www.cs.princeton.edu/~wayne/kleinberg-tardos/pearson/05DivideAndConquer.pdf.
+I would like to thank the Department of Computer Science of Princeton University for providing the free related materials online on this topic https://www.cs.princeton.edu/~wayne/kleinberg-tardos/pearson/05DivideAndConquer.pdf.
